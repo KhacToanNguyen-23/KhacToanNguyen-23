@@ -8,4 +8,5 @@
 - Git, GitHub
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: khactoan2233@gmail.com
+- Linkedln: linkedin.com/in/nguyenkhactoan23/
