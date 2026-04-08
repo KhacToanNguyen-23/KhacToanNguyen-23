@@ -9,4 +9,4 @@
 
 ## 📫 Contact
 - Email: khactoan2233@gmail.com
-- Linkedln: linkedin.com/in/nguyenkhactoan23
+- LinkedIn: https://linkedin.com/in/nguyenkhactoan23
