@@ -3,7 +3,7 @@ Software Engineering Student
 Java & Web Developer (learning Spring Boot)
 
 ## Tech Stack
-(https://skillicons.dev/icons?i=java,html,css,mysql,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,idea)
 
 ## Contact
 - Email: khactoan2233@gmail.com
