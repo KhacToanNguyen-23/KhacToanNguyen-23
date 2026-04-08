@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Nguyen Khac Toan
-🎓 Software Engineering Student  
-💻 Java & Web Developer (learning Spring Boot)
+## About ME
+Software Engineering Student  
+Java & Web Developer (learning Spring Boot)
 
-## 🛠️ Tech Stack
-- Java, HTML, CSS  
-- MySQL, SQL server  
-- Git, GitHub
+## Tech Stack
+(https://skillicons.dev/icons?i=java,html,css,mysql,git,github)
 
-## 📫 Contact
+## Contact
 - Email: khactoan2233@gmail.com
 - LinkedIn: https://linkedin.com/in/nguyenkhactoan23
