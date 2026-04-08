@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack
 - Java, HTML, CSS  
-- MySQL  
+- MySQL, SQL server  
 - Git, GitHub
 
 ## 📫 Contact
