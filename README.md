@@ -1,22 +1,25 @@
-# Nguyen Khac Toan
+### Hi, I'm Toan 👋
 
-Software Engineering Student based in Vietnam.
+---
 
-I focus on backend development with **Java** and **Spring Boot** — building **REST APIs**, working with **Spring Security**, **JWT**, **Spring Data JPA**, and **PostgreSQL**. On the frontend side I work with **React** and **Tailwind CSS**.
+**About Me**
 
-Currently deepening my understanding of how backend systems are designed and structured.
+I'm a Software Engineering Student with a focus on **Backend Development** using **Java** and **Spring Boot**. I enjoy designing and building **REST APIs**, working with databases, and learning how real systems are put together.
+
+I've built projects end-to-end — handling everything from **Spring Security** and **JWT** authentication to **Spring Data JPA**, **PostgreSQL**, and wiring up a **React** frontend to consume the APIs I write.
+
+Still learning every day. Currently exploring **system design**, **Docker**, and how to structure larger applications properly.
 
 ---
 
 **Languages & Frameworks**
-Java · Spring Boot · Spring Security · Spring Data JPA · React
+
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,react,tailwind,vite)](https://skillicons.dev)
 
 **Tools & Databases**
-PostgreSQL · Maven · Git · Postman · Swagger
 
-**Learning**
-System Design · Docker · Microservices
+[![Tools](https://skillicons.dev/icons?i=postgresql,maven,git,github,postman)](https://skillicons.dev)
 
 ---
 
-[khactoan2233@gmail.com](mailto:khactoan2233@gmail.com) · [LinkedIn](https://linkedin.com/in/nguyenkhactoan23)
+📧 [khactoan2233@gmail.com](mailto:khactoan2233@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/nguyenkhactoan23)
