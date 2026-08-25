@@ -1,28 +1,22 @@
-## Khac Toan Nguyen
+# Nguyen Khac Toan
 
-Software Engineering Student. Currently focused on backend development with **Java** and **Spring Boot**, building RESTful APIs and learning how real-world systems are structured.
+Software Engineering Student based in Vietnam.
 
----
+I focus on backend development with **Java** and **Spring Boot** — building **REST APIs**, working with **Spring Security**, **JWT**, **Spring Data JPA**, and **PostgreSQL**. On the frontend side I work with **React** and **Tailwind CSS**.
 
-## Projects
-
-**[Cinema Web App](https://github.com/KhacToanNguyen-23/cinema-web-app)**
-A full-stack cinema ticket booking platform. Built the entire backend from scratch using **Spring Boot**, **Spring Security** with **JWT** authentication, **Spring Data JPA** with **PostgreSQL**, and **MapStruct** for DTO mapping. Frontend in **React** + **Tailwind CSS**.
-
-**[Parking Management System](https://github.com/KhacToanNguyen-23/parking-management-backend)**
-Contributed to a team project — a parking lot management system with a **Spring Boot** backend and **React** frontend.
+Currently deepening my understanding of how backend systems are designed and structured.
 
 ---
 
-## Stack
+**Languages & Frameworks**
+Java · Spring Boot · Spring Security · Spring Data JPA · React
 
-**Comfortable with**`n` Java`Spring Boot`Spring Security`JWT`Spring Data JPA`PostgreSQL`REST API`Maven`React`Tailwind CSS`Git` `
+**Tools & Databases**
+PostgreSQL · Maven · Git · Postman · Swagger
 
-**Currently learning**
-`Microservices` `Docker` `System Design`
+**Learning**
+System Design · Docker · Microservices
 
 ---
-
-## Contact
 
 [khactoan2233@gmail.com](mailto:khactoan2233@gmail.com) · [LinkedIn](https://linkedin.com/in/nguyenkhactoan23)
